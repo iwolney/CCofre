@@ -1,0 +1,8 @@
+C:\Repositorios\CCofre\LibCCofre\bin\Debug\netcoreapp3.1\LibCCofre.deps.json
+C:\Repositorios\CCofre\LibCCofre\bin\Debug\netcoreapp3.1\LibCCofre.dll
+C:\Repositorios\CCofre\LibCCofre\obj\Debug\netcoreapp3.1\LibCCofre.AssemblyInfoInputs.cache
+C:\Repositorios\CCofre\LibCCofre\obj\Debug\netcoreapp3.1\LibCCofre.AssemblyInfo.cs
+C:\Repositorios\CCofre\LibCCofre\bin\Debug\netcoreapp3.1\LibCCofre.pdb
+C:\Repositorios\CCofre\LibCCofre\obj\Debug\netcoreapp3.1\LibCCofre.csproj.CoreCompileInputs.cache
+C:\Repositorios\CCofre\LibCCofre\obj\Debug\netcoreapp3.1\LibCCofre.dll
+C:\Repositorios\CCofre\LibCCofre\obj\Debug\netcoreapp3.1\LibCCofre.pdb
